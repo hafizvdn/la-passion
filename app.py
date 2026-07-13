@@ -7,4 +7,15 @@ def sum(a, b):
 
 print(sum(a,b));
 
-def 
+# this is a recuresion
+d = 20
+f = 0
+def recursion_find_the_how_time_number(d,f):
+    
+    while d >= 5:
+        d = d-5
+        f += 1
+    return f
+
+
+print(recursion_find_the_how_time_number(d,f));
