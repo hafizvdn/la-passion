@@ -1,0 +1,7 @@
+[package]
+name = "la-passion"
+version = "0.1.0"
+authors = ["la-passion"]
+edition = "2021"
+
+[dependencies]
